@@ -6,3 +6,5 @@ This module comes with an open source licence, CC-BY-SA 3.0.  Go ahead and read 
 Also note that this module is made to function with my "Universal Front Plate" PCB which is hosted in another branch.  It can make the schematic a bit tricky to read sometimes but I did my best to annotate things.  There *might* be some inconsistencies between the pin naming convention for this schematic and the one on the "UFP" schematic because this was the first circuit that I build to work with the UFP and they both went through several revisions together.
 
 For a description of the licence in simple terms please visit https://creativecommons.org/licenses/by-sa/3.0/
+
+Also my build documentation uses a lot of high resolution pictures so the final size is about 45 MB.  Check this link to see the build documentation as well as the BOM: http://www.mysticcircuits.com/2015/11/building-vert.html
