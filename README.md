@@ -38,9 +38,11 @@ https://modularaddict.com/parts/potentiometers-1/9mm-potentiometers
 
 http://smallbear-electronics.mybigcommerce.com/alpha-single-gang-9mm-right-angle-pc-mount/
 
-Here are the links for the Small Bear parts.  You can buy SPDT switches from a variety of places but I highly suggest buying the short bat toggles listed below.  The switches go in between the pots and so if the bats are too long they will interfere with your ability to turn the knobs comfortably.  If you do not buy these specific switches then I still suggest to at least do some research and find toggles with a similar form factor.  I am looking into equivalents overseas in places not easily serviced by Small Bear and will post my findings when I can.
+Here are the links for the Small Bear parts.  You can buy SPDT switches from a variety of places but I highly suggest buying the short bat toggles listed below.  The switches go in between the pots and so if the bats are too long they will interfere with your ability to turn the knobs comfortably.  I haven't personally tried the Tayda toggle switches but see no reason that they wouldn't work.  If you try them out please let me know how it goes so I can confirm whether or not they are a good choice.
 
 http://smallbear-electronics.mybigcommerce.com/spdt-on-on-0218b/
+
+https://www.taydaelectronics.com/electromechanical/switches-key-pad/toggle-switch/mini-toggle-switch-1m-series-spdt-on-on-short-lever.html
 
 I also buy my purple knobs from Small Bear but any knobs that fit a smooth pot shaft will do.  If you want to use knobs for knurled or D-pot shafts obviously you just have to find the corresponding shaft to replace mine.  I like these pots because they are thin, the painted indicator is inlayed so it wont rub off, and the knurl feels good on the finger.
 
